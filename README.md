@@ -21,6 +21,9 @@ Vídeo explicando esto y otros trucos.
 https://youtu.be/a0MW1TTjOPA
 
 
+
+
+
 **Inkscape to Fusion 360 SVG scale issue solved for design in millimeters.**
 
 When importing in Fusion 360 an SVG file created in Inkscape there is usually an issue with dimensions, related to scaling and DPI default conversions of mm units.
