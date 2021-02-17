@@ -1,7 +1,7 @@
 # fusion360_svg
 [English follows Spanish description]
 
-**Resuelve el problema de escala al importar SVG creado en Inkscape en Fusion 360 cuando diseñas en milímetros.**
+## Resuelve el problema de escala al importar SVG creado en Inkscape en Fusion 360 cuando diseñas en milímetros.
 
 Cuando importas en Fusion 360 un fichero SVG creado en Inkscape hay normalmente un problema de dimensiones, relacionado con la escala, los puntos por pulgada y la conversión por defecto de unidades en mm.
 
@@ -24,7 +24,7 @@ https://youtu.be/a0MW1TTjOPA
 
 
 
-**Inkscape to Fusion 360 SVG scale issue solved for design in millimeters.**
+## Inkscape to Fusion 360 SVG scale issue solved for design in millimeters.
 
 When importing in Fusion 360 an SVG file created in Inkscape there is usually an issue with dimensions, related to scaling and DPI default conversions of mm units.
 
